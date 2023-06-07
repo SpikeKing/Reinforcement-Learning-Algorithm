@@ -6,3 +6,5 @@
 2. Decaying Epsilon Greedy
 3. Upper Confidence Bound
 4. Thompson Sampling
+5. Markov Reward Process
+6. Markov Decision Process
