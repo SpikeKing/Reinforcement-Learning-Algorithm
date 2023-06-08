@@ -41,7 +41,6 @@ def main():
   rewards = [-1, -2, -2, 10, 1, 0]
   gamma = 0.5
 
-
   chain = [1, 2, 3, 6]
   start_index = 0
   G = compute_return(start_index, chain, gamma, rewards)
